@@ -15,3 +15,7 @@ const sayHiToGrandma = (str) => {
   if (str === str.toLowerCase()) return "I can't hear you!";
   else return "YES INDEED!";
 }
+
+const logWhisper = (str) => {
+  console.log(str.toLower())
+}
