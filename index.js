@@ -17,5 +17,5 @@ const sayHiToGrandma = (str) => {
 }
 
 const logWhisper = (str) => {
-  console.log(str.toLower())
+  console.log(str.toLowerCase())
 }
